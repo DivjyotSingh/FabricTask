@@ -6,7 +6,7 @@ const initCanvas = (id) => {
     backgroundColor: "#808080",
   });
 };
-
+//comment
 const canvas = initCanvas("canvas");
 var image;
 // TASK 1 TO UPLOAD THE IMAGE ON THE CANVAS
